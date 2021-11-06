@@ -1,5 +1,5 @@
 # MassOS-Wallpaper
-Additional Wallpapers for MassOS Operating System 
+- Additional Wallpapers for MassOS Operating System 
 ```
 mkdir MassOS-Additional-Wallpapers
 ``` 
