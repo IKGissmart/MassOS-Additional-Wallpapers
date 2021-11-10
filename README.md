@@ -7,4 +7,5 @@ git clone https://github.com/IKGissmart/MassOS-Additional-Wallpapers
 Suggest or Upload Community-Made Wallpapers For MassOS [here](https://github.com/IKGissmart/MassOS-Additional-Wallpapers/issues/2)
 
 
-_All rights of **[MassOS Operating System](https://github.com/TheSonicMaster/MassOS)** is Reserved by [The Sonic Master](https://github.com/TheSonicMaster)_ 
+### Rights 
+_All rights of **[MassOS Operating System](https://github.com/TheSonicMaster/MassOS)** is Reserved by [The Sonic Master](https://github.com/TheSonicMaster)_
