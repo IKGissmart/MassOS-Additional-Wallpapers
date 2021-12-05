@@ -1,5 +1,7 @@
 ![](MassOS-Minimal-DeepOcean.png)
 
+![](MassOS-Minimal-Nord.png)
+
 ![](MassOS-Minimal-Green.png)
 
 ![](MassOS-Minimal-Purple.png)
