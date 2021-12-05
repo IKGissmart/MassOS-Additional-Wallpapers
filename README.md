@@ -1,5 +1,6 @@
 ### MassOS-Wallpaper
-Additional Wallpapers for MassOS Operating System 
+Additional Wallpapers for MassOS Operating System.
+
 To Download All the Wallpaper use following command
 ```
 git clone https://github.com/IKGissmart/MassOS-Additional-Wallpapers
