@@ -1,4 +1,10 @@
-![](MassOS-BlueDye.png)
+![](MassOS-Minimal-DeepOcean.png)
+
+![](MassOS-Minimal-Green.png)
+
+![](MassOS-Minimal-Purple.png)
+
+![](MassOS-Minimal-Xmas.png)
 
 ![](MassOS-Bluw-Nordic-V1.png)
 
@@ -7,14 +13,6 @@
 ![](MassOS-KhakiDye.png)
 
 ![](MassOS-LightFlashing.png)
-
-![](MassOS-Minimal-DeepOcean.png)
-
-![](MassOS-Minimal-Green.png)
-
-![](MassOS-Minimal-Purple.png)
-
-![](MassOS-Minimal-Xmas.png)
 
 ![](MassOS-MoonyDay.png)
 
@@ -33,5 +31,7 @@
 ![](MassOS-Nordic-V3.png)
 
 ![](MassOS-Purp.png)
+
+![](MassOS-BlueDye.png)
 
 
