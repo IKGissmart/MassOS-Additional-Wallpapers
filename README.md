@@ -12,5 +12,6 @@ Basic(Starter) Assets(logos) are Provided in [Assets Repo](https://github.com/IK
 ## Wallpaper Showcase 
 #### For Wallpaper Showcase go to [**Gallery**](https://github.com/IKGissmart/MassOS-Additional-Wallpapers/blob/main/Gallery.md)
 
-## Rights 
-_All rights of **[MassOS Operating System](https://github.com/TheSonicMaster/MassOS)** is Reserved by [The Sonic Master](https://github.com/TheSonicMaster)_
+## Rights/Credits 
+The Credits of wallpapers can be shown in commits by two tildes and then Author Name (~~ NAME) For example ![](credits-scr.png)
+- _All rights of **[MassOS Operating System](https://github.com/TheSonicMaster/MassOS)** is Reserved by [The Sonic Master](https://github.com/TheSonicMaster)_
