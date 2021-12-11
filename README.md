@@ -14,4 +14,5 @@ Basic(Starter) Assets(logos) are Provided in [Assets Folder](https://github.com/
 
 ## 🔹 Rights/Credits 
 The Credits of wallpapers can be shown in commits by two tildes and then Author Name (~~ NAME) For Example: ![](credits-scr.png)
- _All rights of **[MassOS Operating System](https://github.com/TheSonicMaster/MassOS)** is Reserved by [The Sonic Master](https://github.com/TheSonicMaster)_
+ 
+ * _All rights of **[MassOS Operating System](https://github.com/TheSonicMaster/MassOS)** is Reserved by [The Sonic Master](https://github.com/TheSonicMaster)_
