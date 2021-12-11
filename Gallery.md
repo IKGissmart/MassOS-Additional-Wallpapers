@@ -1,41 +1,41 @@
 ## MassOS-Minimal-DeepOcean.png 
-![](MassOS-Minimal-DeepOcean.png)
+![](Wallpapers/MassOS-Minimal-DeepOcean.png)
 ## MassOS-Minimal-Nord.png
-![](MassOS-Minimal-Nord.png)
+![](Wallpapers/MassOS-Minimal-Nord.png)
 ## MassOS-Minimal-Green.png
-![](MassOS-Minimal-Green.png)
+![](Wallpapers/MassOS-Minimal-Green.png)
 ## MassOS-Minimal-Purple.png
-![](MassOS-Minimal-Purple.png)
+![](Wallpapers/MassOS-Minimal-Purple.png)
 ## MassOS-Minimal-Xmas.png
-![](MassOS-Minimal-Xmas.png)
+![](Wallpapers/MassOS-Minimal-Xmas.png)
 ## MassOS-Bluw-Nordic-V1.png
-![](MassOS-Bluw-Nordic-V1.png)
+![](Wallpapers/MassOS-Bluw-Nordic-V1.png)
 ## MassOS-Bluw-Nordic-V2.png
-![](MassOS-Bluw-Nordic-V2.png)
+![](Wallpapers/MassOS-Bluw-Nordic-V2.png)
 ## MassOS-LightFlashing.png
-![](MassOS-LightFlashing.png)
+![](Wallpapers/MassOS-LightFlashing.png)
 ## MassOS-MoonyDay.png
-![](MassOS-MoonyDay.png)
+![](Wallpapers/MassOS-MoonyDay.png)
 ## MassOS-MoonyDayV2.png
-![](MassOS-MoonyDayV2.png)
+![](Wallpapers/MassOS-MoonyDayV2.png)
 ## MassOS-MoonyDayV3.png
-![](MassOS-MoonyDayV3.png)
+![](Wallpapers/MassOS-MoonyDayV3.png)
 ## MassOS-Neon-Tubelights.png
-![](MassOS-Neon-Tubelights.png)
+![](Wallpapers/MassOS-Neon-Tubelights.png)
 ## MassOS-Neon-Tubelights-Nordic-Version.png
-![](MassOS-Neon-Tubelights-Nordic-Version.png)
+![](Wallpapers/MassOS-Neon-Tubelights-Nordic-Version.png)
 ## MassOS-Nordic-V1.png
-![](MassOS-Nordic-V1.png)
+![](Wallpapers/MassOS-Nordic-V1.png)
 ## MassOS-Nordic-V2.png
-![](MassOS-Nordic-V2.png)
+![](Wallpapers/MassOS-Nordic-V2.png)
 ## MassOS-Nordic-V3.png
-![](MassOS-Nordic-V3.png)
+![](Wallpapers/MassOS-Nordic-V3.png)
 ## MassOS-Purp.png
-![](MassOS-Purp.png)
+![](Wallpapers/MassOS-Purp.png)
 ## MassOS-BlueDye.png
-![](MassOS-BlueDye.png)
+![](Wallpapers/MassOS-BlueDye.png)
 ## MassOS-KhakiDye.png
-![](MassOS-KhakiDye.png)
+![](Wallpapers/MassOS-KhakiDye.png)
 
 
 
