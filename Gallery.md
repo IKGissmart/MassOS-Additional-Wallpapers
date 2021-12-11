@@ -21,7 +21,7 @@
 ## MassOS-MoonyDayV3.png
 ![](Wallpapers/MassOS-MoonyDayV3.png)
 ## MassOS-NeonForest.png
-![](Wallpapers/Forest.png)
+![](Wallpapers/MassOS-Forest.png)
 ## MassOS-Neon-Tubelights.png
 ![](Wallpapers/MassOS-Neon-Tubelights.png)
 ## MassOS-Neon-Tubelights-Nordic-Version.png
