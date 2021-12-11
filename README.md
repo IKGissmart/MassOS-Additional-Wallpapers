@@ -1,6 +1,6 @@
 ## 💠 MassOS-Wallpaper
 Additional Wallpapers for MassOS Operating System.
-![](MassOS.gif)
+![](MassOS-SmallSized.gif)
 ## ♦️ Download
 To Download All the Wallpaper use following command
 ```
