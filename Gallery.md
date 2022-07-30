@@ -14,6 +14,8 @@
 ![](Wallpapers/MassOS-Minimal-Purple.png)
 ## MassOS-Abstract.png 
 ![](Wallpapers/MassOS-Abstract.png)
+## MassOS-Winter.png
+![](Wallpapers/MassOS-Winter.png)
 ## MassOS-Minimal-Xmas.png
 ![](Wallpapers/MassOS-Minimal-Xmas.png)
 ## MassOS-Bluw-Nordic-V1.png
